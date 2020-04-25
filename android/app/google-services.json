@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598253598557",
+    "firebase_url": "https://foodkart-db.firebaseio.com",
+    "project_id": "foodkart-db",
+    "storage_bucket": "foodkart-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598253598557:android:56d89a263a21eeee249ab4",
+        "android_client_info": {
+          "package_name": "com.foodfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598253598557-e0voo8fcodln8i2a0bgmosjgahjvr0th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCybFu5W7pl51kKFkMM8ObmFNCkaugsNTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598253598557-e0voo8fcodln8i2a0bgmosjgahjvr0th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
